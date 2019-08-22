@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookTopMostAddIn", "OutlookTopMostAddIn\OutlookTopMostAddIn.csproj", "{21DC6BA0-47E9-49F2-AC72-2224B4992465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelTopMostAddIn", "ExcelTopMostAddIn\ExcelTopMostAddIn.csproj", "{B4ED28E2-EDE8-4EBF-8148-0805B30C21AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPointTopMostAddIn", "PowerPointTopMostAddIn\PowerPointTopMostAddIn.csproj", "{5BEFCBFD-52FE-4F57-BF1F-BA391B25F183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordTopMostAddIn", "WordTopMostAddIn\WordTopMostAddIn.csproj", "{4ACA6438-FF84-4AFE-9328-4D5DDFA061E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectTopMostAddIn", "ProjectTopMostAddIn\ProjectTopMostAddIn.csproj", "{B99BA381-FA0B-4AA1-B4B8-E967A04B24B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisioTopMostAddIn", "VisioTopMostAddIn\VisioTopMostAddIn.csproj", "{65BE219A-538B-496F-8333-301B5B0DADC1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{DE1E187E-F544-4F47-BE84-37E310F93EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21DC6BA0-47E9-49F2-AC72-2224B4992465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DC6BA0-47E9-49F2-AC72-2224B4992465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DC6BA0-47E9-49F2-AC72-2224B4992465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DC6BA0-47E9-49F2-AC72-2224B4992465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4ED28E2-EDE8-4EBF-8148-0805B30C21AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4ED28E2-EDE8-4EBF-8148-0805B30C21AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4ED28E2-EDE8-4EBF-8148-0805B30C21AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4ED28E2-EDE8-4EBF-8148-0805B30C21AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEFCBFD-52FE-4F57-BF1F-BA391B25F183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEFCBFD-52FE-4F57-BF1F-BA391B25F183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEFCBFD-52FE-4F57-BF1F-BA391B25F183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEFCBFD-52FE-4F57-BF1F-BA391B25F183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ACA6438-FF84-4AFE-9328-4D5DDFA061E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ACA6438-FF84-4AFE-9328-4D5DDFA061E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ACA6438-FF84-4AFE-9328-4D5DDFA061E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ACA6438-FF84-4AFE-9328-4D5DDFA061E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B99BA381-FA0B-4AA1-B4B8-E967A04B24B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99BA381-FA0B-4AA1-B4B8-E967A04B24B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99BA381-FA0B-4AA1-B4B8-E967A04B24B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99BA381-FA0B-4AA1-B4B8-E967A04B24B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65BE219A-538B-496F-8333-301B5B0DADC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BE219A-538B-496F-8333-301B5B0DADC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BE219A-538B-496F-8333-301B5B0DADC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BE219A-538B-496F-8333-301B5B0DADC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE1E187E-F544-4F47-BE84-37E310F93EDE}.Debug|Any CPU.ActiveCfg = Debug
+		{DE1E187E-F544-4F47-BE84-37E310F93EDE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84346390-E43F-433E-AD7B-94657D8DFA99}
+	EndGlobalSection
+EndGlobal
